@@ -1,11 +1,11 @@
 from setuptools import setup
 
-VERSION = '1.0' 
+VERSION = '1.1' 
 DESCRIPTION = 'Cyware API client'
 
 setup(
     name='pipcyware',
-    version='1.0',
+    version='1.1',
     description='Cyware API client package',
     url='git@github.com:devciscod/pipcyware.git',
     author='Jason Gomes',
