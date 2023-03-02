@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+pipcyware/__init__.py
+pipcyware.egg-info/PKG-INFO
+pipcyware.egg-info/SOURCES.txt
+pipcyware.egg-info/dependency_links.txt
+pipcyware.egg-info/not-zip-safe
+pipcyware.egg-info/top_level.txt

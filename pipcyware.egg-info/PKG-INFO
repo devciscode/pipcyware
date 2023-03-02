@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pipcyware
+Version: 1.0
+Summary: Cyware API client package
+Home-page: git@github.com:devciscod/pipcyware.git
+Author: Jason Gomes
+Author-email: jason.gomes@cyware.com
+License: unlicense
+License-File: LICENSE
